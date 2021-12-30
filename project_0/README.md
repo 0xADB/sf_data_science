@@ -13,7 +13,7 @@ ___
 
 Guess a random number in `[0,100]` range in minimal number of tries.
 
-:arrow_up:[contents](#contents)
+:arrow_up: [contents](#contents)
 ___
 
 ## Problem
@@ -30,33 +30,33 @@ Result is the mean try count in 1000 runs.
 **Skills being practiced**
 Good python code writing.
 
-:arrow_up:[contents](#contents)
+:arrow_up: [contents](#contents)
 ___
 
 ## Data
 
 ...
 
-:arrow_up:[contents](#contents)
+:arrow_up: [contents](#contents)
 ___
 
 ## Solution
 
 ...
 
-:arrow_up:[contents](#contents)
+:arrow_up: [contents](#contents)
 ___
 
 ## Results
 
 ...
 
-:arrow_up:[contents](#contents)
+:arrow_up: [contents](#contents)
 ___
 
 ## Conclusions
 
 ...
 
-:arrow_up:[contents](#contents)
+:arrow_up: [contents](#contents)
 ___

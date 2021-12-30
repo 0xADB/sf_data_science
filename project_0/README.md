@@ -11,7 +11,7 @@ ___
 
 ## Description
 
-Guess a random number in `[0,100]` range in minimal number of tries.
+Guess a random number in the `[0,100]` range in minimal number of tries.
 
 :arrow_up: [contents](#contents)
 ___

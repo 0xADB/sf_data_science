@@ -1,6 +1,11 @@
+"""Guess number game"""
+
 import numpy as np
 
+# Select a number.
 number = np.random.randint(1, 101)
+
+# Number of tries,
 count = 0
 
 while True:

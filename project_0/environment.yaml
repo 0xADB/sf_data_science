@@ -55,4 +55,3 @@ dependencies:
   - xz=5.2.5=h7b6447c_0
   - zeromq=4.3.4=h9c3ff4c_0
   - zlib=1.2.11=h7f8727e_4
-prefix: /home/xff/opt/anaconda3/envs/sf
